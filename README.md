@@ -31,13 +31,12 @@ I build reproducible pipelines for bacterial and viral genomics: from raw Illumi
 ### 🛠️ Selected projects
 | Project | What it does | Stack |
 |---|---|---|
-| **PathoGVI** | Scores pathogen alignments on 9 genomic indices and combines them into a traceable virulence index (CLI + web) | Java · Maven · Docker |
+| **PathoGVI** | Scores pathogen alignments on 9 genomic indices and combines them into a traceable virulence index (CLI + web) | Docker · CLI + Web |
 | **VetGenomeHub** | Browser platform for Nanopore QC, assembly, variant calling and AMR, with no terminal needed. Includes MGE-SIFT for AMR genes on mobile elements | Python · FastAPI · Nextflow · Apptainer |
 | **G4-WATCH** | G-quadruplex surveillance framework for 13 livestock viruses, with 1,322 tests and 12 Docker images | Python · Docker · CI/CD |
 
 ### 🧰 Tech stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow_DSL2-0DC09D?logo=nextflow&logoColor=white)
