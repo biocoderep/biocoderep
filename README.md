@@ -1,13 +1,7 @@
 <div align="center">
 
 <a href="https://biocoderep.github.io">
-  <img src="https://img.shields.io/badge/🌐_View_my_Portfolio-biocoderep.github.io-0f766e?style=for-the-badge" alt="View my Portfolio" height="44">
-</a>
-<a href="https://biocoderep.github.io/browser/">
-  <img src="https://img.shields.io/badge/🧬_Genome_Browser_view-explore_my_career-c2410c?style=for-the-badge" alt="Genome browser view" height="44">
-</a>
-<a href="https://biocoderep.github.io/terminal/">
-  <img src="https://img.shields.io/badge/>__Terminal_view-nextflow_run_pooja-1a2238?style=for-the-badge" alt="Terminal view" height="44">
+  <img src="https://img.shields.io/badge/>__View_my_Portfolio-nextflow_run_pooja-1a2238?style=for-the-badge" alt="View my Portfolio" height="44">
 </a>
 
 <br><br>
