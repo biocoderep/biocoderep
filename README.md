@@ -1,10 +1,21 @@
+<div align="center">
+
+<a href="https://biocoderep.github.io">
+  <img src="https://img.shields.io/badge/🌐_View_my_Portfolio-biocoderep.github.io-0f766e?style=for-the-badge" alt="View my Portfolio" height="44">
+</a>
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bnpooja-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bnpooja)
+[![Email](https://img.shields.io/badge/Email-poojabadru%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:poojabadru@gmail.com)
+
+</div>
+
 ## Hi, I'm Pooja 👋
 
 **Bioinformatics Engineer** · NGS & pathogen genomics · Workflow development · Bengaluru, India
 
 I build reproducible pipelines for bacterial and viral genomics: from raw Illumina / Nanopore reads to variants, assemblies, AMR profiles and phylogenies. I currently work at **ICAR-NIVEDI**.
-
-🌐 **Portfolio:** [biocoderep.github.io](https://biocoderep.github.io) · 💼 **LinkedIn:** [bnpooja](https://linkedin.com/in/bnpooja) · 📧 poojabadru@gmail.com
 
 ---
 
