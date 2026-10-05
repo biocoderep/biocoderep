@@ -3,6 +3,9 @@
 <a href="https://biocoderep.github.io">
   <img src="https://img.shields.io/badge/🌐_View_my_Portfolio-biocoderep.github.io-0f766e?style=for-the-badge" alt="View my Portfolio" height="44">
 </a>
+<a href="https://biocoderep.github.io/browser/">
+  <img src="https://img.shields.io/badge/🧬_Genome_Browser_view-explore_my_career-c2410c?style=for-the-badge" alt="Genome browser view" height="44">
+</a>
 
 <br><br>
 
