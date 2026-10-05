@@ -1,7 +1,11 @@
 <div align="center">
 
 <a href="https://biocoderep.github.io">
-  <img src="https://img.shields.io/badge/>__View_my_Portfolio-nextflow_run_pooja-1a2238?style=for-the-badge" alt="View my Portfolio" height="44">
+  <img src="terminal-preview.png" alt="My portfolio: a terminal you can type into. Click to open." width="820">
+</a>
+
+<a href="https://biocoderep.github.io">
+  <img src="https://img.shields.io/badge/>__Open_my_Portfolio-biocoderep.github.io-1a2238?style=for-the-badge" alt="Open my Portfolio" height="44">
 </a>
 
 <br><br>
